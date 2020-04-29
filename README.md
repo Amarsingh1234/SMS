@@ -1,0 +1,2 @@
+# SMS
+Scholarship Management System 
